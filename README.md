@@ -1,2 +1,2 @@
 # POO
-Mes projets Java en POO
+Mes projets Java en Programmation Orientée Objet
