@@ -1,5 +1,5 @@
-# POO
-Mes TP Java en POO
+# Mes TP Java
+En cours de Programmation Orientée Objet
 
 ## TODO
 - Exercices complémentaires du TP4
